@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_dLmUFqJnFZ
+createdAt: 2025-08-03T12:49:48.523253900
+updatedAt: 2025-08-03T12:50:01.805777400
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Testing
+encryptionKeyChallenge: eUE0azNuQwGcQo3t9nfZv6ir0SeFG/GvpzuzNFGKXszRuM/ZVQnenClk4kMS+EZsiLItMp+7Nn/s5vet0Jd4HZw8EavDJRuAGVyFB7eNzhbV55H0IGFDYA96u3Y2WEWhy0w=
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

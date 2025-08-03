@@ -1,0 +1,28 @@
+type: http_request
+model: http_request
+id: rq_LkScnPME3o
+createdAt: 2025-08-03T12:58:19.063631800
+updatedAt: 2025-08-03T13:01:07.665822900
+workspaceId: wk_dLmUFqJnFZ
+folderId: fl_GAXSnqzef8
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "name" : "Laiba",
+      "quantity" : 4,
+      "price" : 8.2
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: fPCUAHCVRj
+method: POST
+name: ''
+sortPriority: -1754225449546.0
+url: http://localhost:3000/api/products
+urlParameters: []
