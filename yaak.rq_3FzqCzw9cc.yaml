@@ -1,8 +1,8 @@
 type: http_request
 model: http_request
-id: rq_7yVWzxYKjw
-createdAt: 2025-08-04T05:45:39.412263700
-updatedAt: 2025-08-04T05:57:51.141509700
+id: rq_3FzqCzw9cc
+createdAt: 2025-08-04T05:57:23.609197900
+updatedAt: 2025-08-04T05:57:36.960083400
 workspaceId: wk_u2pK4KZjkr
 folderId: fl_QmbRhkPCRg
 authentication: {}
@@ -11,8 +11,8 @@ body: {}
 bodyType: null
 description: ''
 headers: []
-method: DELETE
+method: PUT
 name: ''
 sortPriority: -1754286339406.0
-url: http://localhost:3000/api/products/6830c71d8aba1c995d7dc2e0
+url: http://localhost:3000/api/products/
 urlParameters: []
